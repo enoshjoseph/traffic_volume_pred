@@ -1,0 +1,13 @@
+# .streamlit/config.toml
+
+[theme]
+# Set the primary accent color (e.g., a blue or green)
+primaryColor="#4CAF50" 
+# Set the background to a dark color
+backgroundColor="#1E1E1E" 
+# Set the sidebar and component background to a slightly lighter dark color
+secondaryBackgroundColor="#2D2D2D" 
+# Set the text color to white
+textColor="#FFFFFF" 
+# Set the font to a common, readable option
+font="sans serif"
