@@ -1,0 +1,10 @@
+# Ignore Streamlit secrets
+.streamlit/secrets.toml
+
+# Common unnecessary files
+__pycache__/
+*.pkl
+*.json
+*.log
+*.env
+.DS_Store
